@@ -24,6 +24,7 @@
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
     NSLog(@"Memory issue has been fixed 1.1");
+    NSLog(@"Memory issue has been fixed 1.1");
 }
 
 @end
